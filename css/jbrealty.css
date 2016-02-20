@@ -2,3 +2,20 @@
   background-color: transparent;
   border-color: transparent;
 }
+
+.dropdown-menu.no-border {
+  border: 0;
+  box-shadow: 0;
+  border-radius: 0;
+  box-shadow: none;
+  background-color: transparent;
+}
+
+a.jb-menu:active,
+a.jb-menu:focus,
+a.jb-menu:hover {
+  border-bottom-style: solid;
+  border-bottom-color:#73AD21;
+  border-bottom-width: medium;
+  background-color: transparent;
+ }
